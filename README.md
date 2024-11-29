@@ -4,7 +4,7 @@ This tutorial will guide to set up MD simulations using a PBD structure download
 1. Theory of MD simulations-Advantages 
 2. Uniprot
 3. Obtaining 3D-Structure of Protein from Sequence
-4. Steps involvled in MD Simulations
+4. Steps involvled in MD Simulations-Set up
 5. Running MD Simulations
 6. Quesstionare
 7. Exercise
