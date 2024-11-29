@@ -6,7 +6,7 @@ If the protein structure is not available in the PDB, we will cover how to predi
 - [SWISS-MODEL](https://swissmodel.expasy.org/)
 - [AlphaFold](https://alphafold.ebi.ac.uk/)
 - [I-TASSER](https://zhanggroup.org/I-TASSER/)
-- [Modeller Software] (https://salilab.org/modeller/)
+- [Modeller Software](https://salilab.org/modeller/)
 
 #### Table of Contents
 1. Theory of MD simulations-Advantages
