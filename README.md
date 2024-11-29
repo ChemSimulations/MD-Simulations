@@ -1,10 +1,19 @@
-### MD-Simulations
-This tutorial will guide to set up MD simulations using a PBD structure downloaded from [Protein Data Bank](https://www.rcsb.org/) and also discusses about the cases that donot have structure in deposited in **PDB**. In the later case, we will model the structure using various online servers such as [SWISSPDB](https://swissmodel.expasy.org/), [AlphaFold](https://alphafold.ebi.ac.uk/), [I-TASSER](https://zhanggroup.org/I-TASSER/) and Modeller Software
+# MD Simulations Tutorial
+
+This tutorial provides a step-by-step guide for setting up Molecular Dynamics (MD) simulations using a PDB structure downloaded from the [Protein Data Bank (PDB)](https://www.rcsb.org/). 
+
+If the protein structure is not available in the PDB, we will cover how to predict the structure using various online tools and software, including:
+- [SWISS-MODEL](https://swissmodel.expasy.org/)
+- [AlphaFold](https://alphafold.ebi.ac.uk/)
+- [I-TASSER](https://zhanggroup.org/I-TASSER/)
+- **Modeller Software**
+
 #### Table of Contents
-1. Theory of MD simulations-Advantages 
-2. Uniprot
-3. Obtaining 3D-Structure of Protein from Sequence
-4. Steps involvled in MD Simulations-Set up
-5. Running MD Simulations
-6. Quesstionare
-7. Exercise
+1. Theory of MD simulations-Advantages
+2. Examing the structure using Pymol, VMD  & Chimera
+4. Uniprot
+5. Obtaining 3D-Structure of Protein from Sequence
+6. Steps involvled in MD Simulations-Set up
+7. Running MD Simulations
+8. Quesstionare
+9. Exercise
