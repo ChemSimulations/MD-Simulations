@@ -8,7 +8,11 @@ In a MD simulation, the classical equations of motion governing the microscopic 
   Examples
   [LBW](https://www.google.com/imgres?q=LBW%20images&imgurl=https%3A%2F%2Fimg.jagranjosh.com%2Fimages%2F2023%2FOctober%2F25102023%2Fcricket-what-is-umpires-call.jpg&imgrefurl=https%3A%2F%2Fwww.jagranjosh.com%2Fgeneral-knowledge%2Fwhat-is-umpires-call-in-cricket-drs-lbw-rules-1698222018-1&docid=tJ9mR7U_V-wxCM&tbnid=X5p9PvJ3pVh0iM&vet=12ahUKEwjpj8XczoiKAxVJSWwGHaibLJIQM3oECF4QAA..i&w=1200&h=675&hcb=2&ved=2ahUKEwjpj8XczoiKAxVJSWwGHaibLJIQM3oECF4QAA)
   
-           
+
+   **Proteins**
+    An example of MD trajectory where protein is embedded in bilayer Membrane with water molecules above and below the bilayer.
+
+    [Trajectory](https://cresset-group.com/wp-content/uploads/media/files/5a8e_membrane.gif)
 
 
 
