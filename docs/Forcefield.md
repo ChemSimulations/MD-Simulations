@@ -46,4 +46,9 @@ According to this principle, if we want to know the position of an atom in the f
 
 
 
+**References**
+1. https://www.compchems.com/molecular-dynamics-equations-of-motion/#the-verlet-algorithm
+
+
+
 
