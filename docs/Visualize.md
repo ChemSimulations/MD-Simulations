@@ -9,4 +9,17 @@
 
 
 ## How to Download three dimensional structure of Protein/DNA/RNA?
-``` **RCSB** ```
+**[RCSB](https://www.rcsb.org/)**
+
+
+What is RCSB?
+![image](https://github.com/user-attachments/assets/1794a8be-15f4-4cea-8a38-9752f1a76111)
+
+</break>
+
+**Search Bar in RCSB**
+
+Type the name of protein or Protein code to get the structure. 
+
+![image](https://github.com/user-attachments/assets/95b1d683-2ea9-431d-85e6-613cfc30fa21)
+
