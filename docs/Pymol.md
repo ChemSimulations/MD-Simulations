@@ -1,4 +1,4 @@
-## Visualize a Protein Structure
+## Visualize a Protein Structure using Pymol
 
 ### Objectives
 ```
