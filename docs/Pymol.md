@@ -17,7 +17,9 @@ Step-3: Type Pymol in windows search button-A visualiser as shown below will app
 
 #### How to Load a PDB file into the Pymol
 ```
-Step-1: Click on FILE and load the downloaded pdb structure from RCSB.
+Step-1: Click on FILE and load the downloaded pdb structure from RCSB
+or
+You can type fetch 1AKI in the pymol command prompt
 Step-2: A Protein structure will be appeared in the Pymol visualizer window.
 ```
 ![image](https://github.com/user-attachments/assets/657588b4-1610-4a83-b8c7-c6c3b1b5cabd)
