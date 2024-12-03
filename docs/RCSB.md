@@ -1,10 +1,9 @@
-## Visualize a Protein Structure
+## $${\color{blue}RCSB }$$ *[Research Collaboratory for Structural Bioinformatics PDB]*
 
 ### Objectives
 ```
-    1. Visualize three dimensional structure of protein using different visuzaliers 
-    2. Download and Install various visualizers in Windows operating system
-    3. Change representation of Protein and save images
+    1. What is RCSB?
+    2. Understand the features available in RCSB
   ```
 
 
