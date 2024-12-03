@@ -8,7 +8,7 @@
   ```
 
 ```
-Download Pymol and Install it in Windows
+Download Pymol and Install it on Windows
 Step-1: Download Pymol from the below site-"https://www.pymol.org/"
 Step-2: Double click on the downloaded PyMOL-3.1.1-Windows-x86_64.exe file.
 Step-3: Type Pymol in windows search button-A visualiser below will be opened as shown in below Figure.
