@@ -4,7 +4,7 @@
 ```
     1. To Download Pymol in Windows Operating System
     2. Visualize the protein structure using above Pymol
-    3. Changing representation of Protein and save images
+    3. Changing representation of Protein and saving it as .png files
   ```
 
 ```
