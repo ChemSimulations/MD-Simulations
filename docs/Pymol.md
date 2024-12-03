@@ -31,3 +31,10 @@ To change the background color to white of the pymol visualizer, type the below 
 bg_color white
 ```
 #### Changing the Representation of the Protein
+```
+Step-1: Click on the S (show) symbol, which you can find one the extreme right side of the visualizer (in front of the protein 3 letter code).
+Step-2: Upon clicking, a whole lot of options appear, select lines. Now the protein is represented in the form of ray.
+Step-3: Select symbol H (hide), and select cartoon. Now the protein is shown in line representation.
+```
+![image](https://github.com/user-attachments/assets/25dabe47-14c2-459b-9b02-6afc37a6949c)
+
