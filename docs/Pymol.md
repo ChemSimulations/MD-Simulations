@@ -3,7 +3,7 @@
 ### Objectives
 ```
     1. To Download Pymol in Windows Operating System
-    2. Visualize the protein structure using above visualizers
+    2. Visualize the protein structure using above Pymol
     3. Changing representation of Protein and save images
   ```
 
