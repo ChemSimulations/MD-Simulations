@@ -15,7 +15,7 @@ Step-3: Type Pymol in windows search button-A visualiser as shown below will app
 ```
 ![image](https://github.com/user-attachments/assets/2b303aab-6f48-4514-8aa6-12a3102ee24b)
 
-#### Load a PDB file into the Pymol
+#### How to Load a PDB file into the Pymol
 ```
 Step-1: Click on FILE and load the downloaded pdb structure from RCSB.
 Step-2: A Protein structure will be appeared in the Pymol visualizer window.
