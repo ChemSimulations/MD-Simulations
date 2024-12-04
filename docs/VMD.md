@@ -35,4 +35,13 @@ bg_color white
 
 #### Changing the Representation of the Protein
 ```
+To Change the representation of the protein, Click on Graphics --> Representations --> select Drawing method (a window pops up)
+```
+![image](https://github.com/user-attachments/assets/12ea9404-856d-4f5f-93d9-d6b6b402ce0a)
+
+#### Saving the Protein image as .png file
+```
+Saving the file as png is different compared to pymol. Here click on file-->Render. The file will be saved as vmdscene.tga. Convert this using any imageopening tool to .png.
+```
+![image](https://github.com/user-attachments/assets/5fe14a78-846b-4d89-bb10-f5668aecfb4e)
 
