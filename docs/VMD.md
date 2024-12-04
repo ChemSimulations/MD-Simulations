@@ -16,14 +16,13 @@ Step-4: Download the vmd.exe file and double click on it install
 ```
 
 
-#### How to Load a PDB file into the Pymol
+#### How to Load a PDB file into the VMD
 ```
 Step-1: Click on FILE and load the downloaded pdb structure from RCSB
-or
-You can type fetch 1AKI in the pymol command prompt
 Step-2: A Protein structure will be appeared in the Pymol visualizer window.
 ```
-![image](https://github.com/user-attachments/assets/657588b4-1610-4a83-b8c7-c6c3b1b5cabd)
+![image](https://github.com/user-attachments/assets/55ba86d3-70a1-4d5b-bf5d-64b1400d826d)
+
 
 
 
