@@ -19,7 +19,7 @@ Step-4: Download the vmd.exe file and double click on it install
 #### How to Load a PDB file into the VMD
 ```
 Step-1: Click on FILE and load the downloaded pdb structure from RCSB
-Step-2: A Protein structure will be appeared in the Pymol visualizer window.
+Step-2: A Protein structure will be appeared in the VMD visualizer window.
 ```
 ![image](https://github.com/user-attachments/assets/55ba86d3-70a1-4d5b-bf5d-64b1400d826d)
 
@@ -28,7 +28,7 @@ Step-2: A Protein structure will be appeared in the Pymol visualizer window.
 
 #### Changing the Background
 ```
-To change the background color to white of the pymol visualizer, type the below command in the pymol command prompt.
+To change the background color to white of the VMD visualizer, go to Graphics--> Color-->Display-->Background-->White(select color)
 bg_color white
 ```
 
