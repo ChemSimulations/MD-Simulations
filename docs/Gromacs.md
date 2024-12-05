@@ -9,7 +9,7 @@
 #### Installation Instructions
 Step-1: To install Gromacs, we need to have Visual studio software installed in our windows operating system.
 ```
-The visual studio software can be downloaded from the below link,
+The visual studio software can be downloaded from the below link and select the *community* for download
  [Visual studio](https://visualstudio.microsoft.com/downloads/)
 ```
 
