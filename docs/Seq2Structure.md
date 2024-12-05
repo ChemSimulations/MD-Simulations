@@ -22,7 +22,7 @@
  1. ALPHAFOLD can predict the structures of **Protein**, **DNA** and **RNA** and common ligands such as ADP, ATP, NAD, NADPH.
  2. Upload the sequence in the checker box of alphafold server.
  3. Maximum 20 jobs can be submitted in a day and upto 5000 tokens
- 4. [LINK](https://alphafoldserver.com/)
+ 4. [AlphaFold](https://alphafoldserver.com/)
     
  
 
