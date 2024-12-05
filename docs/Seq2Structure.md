@@ -23,6 +23,12 @@
  2. Upload the sequence in the checker box of alphafold server.
  3. Maximum 20 jobs can be submitted in a day and upto 5000 tokens
  4. [AlphaFold](https://alphafoldserver.com/)
+
+#### I-TASSER
+1. I-TASSER (Iterative Threading ASSEmbly Refinement) is a hierarchical approach to protein structure prediction and structure-based function annotation
+2. It first identifies structural templates from the PDB by multiple threading approach LOMETS, with full-length atomic models constructed by iterative template-based fragment assembly simulations.
+3. This server can only be used to model 3D structure of proteins.
+4. I-TASSER [https://zhanggroup.org/I-TASSER/]
     
  
 
