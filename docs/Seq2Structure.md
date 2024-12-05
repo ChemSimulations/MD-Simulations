@@ -14,7 +14,8 @@
 
 #### Link to the server
  [SwissPDBexpacy](https://swissmodel.expasy.org/interactive)
- [Tutorial] (https://swissmodel.expasy.org/docs/examples)
+ 
+ [Tutorial](https://swissmodel.expasy.org/docs/examples)
  
 
 
