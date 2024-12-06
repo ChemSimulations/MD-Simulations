@@ -67,6 +67,8 @@ The above packages are required for the installation of gromacs.
 **Step-22**: Type gmx in the terminal it should show the below output then your installation is completed. Enjoy!
      ![image](https://github.com/user-attachments/assets/e5afc355-afe5-4a4d-95d6-0a078b51ec1d)
 
+**Step-23**: Follow the nice tutorial by *Dr. Justin Lemkul* on Gromacs [Tutorial](http://www.mdtutorials.com/gmx/)
+
 
 
 
@@ -82,5 +84,7 @@ The above packages are required for the installation of gromacs.
 
 #### References:
 1. https://www.youtube.com/watch?v=kCKYkNygc9I
+2. https://manual.gromacs.org/documentation/current/install-guide/index.html
+3. 
 
 
