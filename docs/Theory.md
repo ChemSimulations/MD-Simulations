@@ -16,6 +16,7 @@ In a MD simulation, the classical equations of motion governing the microscopic 
    An example of MD trajectory where protein is embedded in bilayer Membrane with water molecules above and below the bilayer. Water molecules are represented by $${\color{red}red}$$ color line representation, Membrane made up of POPC is represented by $${\color{cyan}cyan}$$ color and protein is represented by $${\color{red}red}$$ and $${\color{green}green}$$ color helix.
 
    -[Trajectory](https://cresset-group.com/wp-content/uploads/media/files/5a8e_membrane.gif)
+   -[Trajectory-2](https://researchblog.duke.edu/wp-content/uploads/2017/09/Gator-sized.gif)
 
 
 
